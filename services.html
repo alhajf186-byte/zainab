@@ -17,7 +17,6 @@
 <a href="services.html">الخدمات</a>
 <a href="register.html">التسجيل</a>
 <a href="contact.html">تواصل معنا</a>
-<a href="admin.html">لوحة التحكم</a>
 </nav>
 
 <section class="section cards">
@@ -41,3 +40,4 @@
 
 </body>
 </html>
+
